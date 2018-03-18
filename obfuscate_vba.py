@@ -1,4 +1,4 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 
 ##Author : Paranoid Ninja
 ##Email  : paranoidninja@protonmail.com
