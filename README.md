@@ -1,4 +1,4 @@
-# SheltreX - Botnet builder built on Elasticsearch and Kibana with the help of C++ and Python
+# SheltreX - C2 builder built on Elasticsearch and Kibana with the help of C++ and Python
 
 <-- The repository is under development. The whole code will be release by 15th April 2018 -->
 
